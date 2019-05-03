@@ -1,0 +1,4 @@
+baseURL = "https://japangirlspress.github.io/"
+languageCode = "ja"
+title = "Japan Girls Press"
+theme = "hugo-zen"
